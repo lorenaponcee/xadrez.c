@@ -1,0 +1,32 @@
+Bem vindo ao jogo de xadrez!
+
+A torre se moveu da casa 1 para a casa 2 à direita
+A torre se moveu da casa 2 para a casa 3 à direita
+A torre se moveu da casa 3 para a casa 4 à direita
+A torre se moveu da casa 4 para a casa 5 à direita
+A torre se moveu da casa 5 para a casa 6 à direita
+A torre se moveu da casa 6 para a casa 7 à direita
+A torre se moveu da casa 7 para a casa 8 à direita
+A torre se moveu da casa 8 para a casa 9 à direita
+
+O bispo se moveu da casa 1,1 para a casa 2,2 na diagonal superior direita
+O bispo se moveu da casa 2,2 para a casa 3,3 na diagonal superior direita
+O bispo se moveu da casa 3,3 para a casa 4,4 na diagonal superior direita
+O bispo se moveu da casa 4,4 para a casa 5,5 na diagonal superior direita
+O bispo se moveu da casa 5,5 para a casa 6,6 na diagonal superior direita
+O bispo se moveu da casa 6,6 para a casa 7,7 na diagonal superior direita
+O bispo se moveu da casa 7,7 para a casa 8,8 na diagonal superior direita
+O bispo se moveu da casa 8,8 para a casa 9,9 na diagonal superior direita
+
+A rainha se moveu da casa 1 para a casa 2 à esquerda
+A rainha se moveu da casa 2 para a casa 3 à esquerda
+A rainha se moveu da casa 3 para a casa 4 à esquerda
+A rainha se moveu da casa 4 para a casa 5 à esquerda
+A rainha se moveu da casa 5 para a casa 6 à esquerda
+A rainha se moveu da casa 6 para a casa 7 à esquerda
+A rainha se moveu da casa 7 para a casa 8 à esquerda
+A rainha se moveu da casa 8 para a casa 9 à esquerda
+
+Cavalo foi para cima
+Cavalo foi para cima
+Cavalo foi para direita
